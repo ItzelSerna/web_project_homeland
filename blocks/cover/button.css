@@ -1,0 +1,19 @@
+.cover__button {
+  font-size: 18px;
+  font-weight: 600;
+  font-style: normal;
+  line-height: 22px;
+  color: rgba(255, 255, 255, 1);
+  text-decoration: none;
+  background-color: rgba(2, 120, 254, 1);
+  padding: 13px 20px;
+  border-radius: 4px;
+  position: relative;
+  cursor: pointer;
+}
+
+.cover__button:hover {
+  background-color: rgba(0, 99, 210, 1);
+  transform: scale(1.05);
+  transition: background-color 0.4s ease;
+}
