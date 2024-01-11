@@ -1,0 +1,14 @@
+.place__paragraph {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 29px;
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  font-style: normal;
+}
+
+.place__paragraph-content {
+  margin: 0px;
+}
