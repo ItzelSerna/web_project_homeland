@@ -1,20 +1,18 @@
-.intro {
-  max-width: 1017px;
+.place__website {
   display: flex;
-  justify-content: center;
   flex-direction: column;
-  margin: auto;
+  justify-content: flex-end;
+  margin-bottom: 48px;
 }
 
 @media screen and (max-width: 768px) {
-  .intro {
+  .place__website {
     max-width: 288px;
-    margin: 0px;
   }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1024px) {
-  .intro {
-    max-width: 720px;
+  .place__website {
+    max-width: 295px;
   }
 }
