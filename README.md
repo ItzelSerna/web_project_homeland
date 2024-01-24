@@ -16,8 +16,6 @@
 
 https://www.figma.com/file/tjwtMvCQkauaKN43QWlSsI/Web_Brief_Sprint_4_ES-%7C-De-patria-a-patria-%7C-desktop-%2B-mobile?type=design&node-id=0%3A1&mode=design&t=31h9ijtzM11c3KKo-1
 
-## Enlace a las páginas de GitHub:
-
-https://github.com/ItzelSerna/web_project_homeland.git
-
 ## Enlace al sitio web:
+
+https://itzelserna.github.io/web_project_homeland/
